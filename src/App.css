@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+/* #one{
+    width: 1000px;
+    height: 300px;
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
 }
+#two{
+    width: 1000px;
+    height: 600px;
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+} */
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* .Headers{
+    display: flex;
+    background-color: brown;
+    text-align: center;
+    height: 100px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 70px;
 }
+.Footer{
+    background-color: rgb(255, 7, 7);
+    text-align: center;
+    height: 100px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 70px;
+}
+.Main{
+    background-color: rgb(163, 165, 42);
+    text-align: center;
+    height: 300px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 70px;
+}
+.Headerleft{
+    width: 300px;
+    color: burlywood;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+.Headerright{
+    width: 600px;
+    color: rgb(168, 155, 137);
+    
+} */

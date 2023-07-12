@@ -1,0 +1,73 @@
+.four{
+    /* display: flex; */
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    
+
+}
+.three{
+    position: relative;
+   font-size: 40;
+}
+.two{
+    width: 100%;
+
+}
+.one{
+    display: flex;
+   
+}
+.five{
+    height: 250px;
+    padding: 30px;
+    
+ 
+}
+.six{
+    height: 250px;
+    padding: 30px;
+    
+    text-align: center;
+    
+}
+.seven{
+    height: 250px;
+    padding: 30px;
+    
+    text-align: center;
+    
+}
+.ab{
+    padding: 50px 0px 50px 200px;
+
+}
+.ac{
+    padding: 50px;
+}
+.ad{
+    padding: 50px 0px;
+}
+.two{
+    margin-top: 20px;
+    border-radius: 50px;
+    
+    box-shadow: 10px 10px ;
+}
+button{
+    background-color: rgb(216, 149, 171);
+    padding: 10px;
+    border-radius: 15px;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+.x{
+    color: rgb(232, 135, 167);
+}
+.y{
+    color: rgb(167, 27, 218);
+}
+.z{
+    color: rgb(155, 64, 148);
+}
