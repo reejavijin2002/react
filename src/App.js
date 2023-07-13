@@ -1,4 +1,4 @@
-// import React,{useState}  from "react";
+import React,{useState}  from "react";
 // import Footer from "./Footer";
 // import Headers from "./Headers";
 // import Main from "./Main";
@@ -6,25 +6,25 @@
 // import Componentone from "./Componentone";
 
 
-// function App(){
-//   let [state,setState]=useState(0)
-//   return(
-//     <div>
+function App(){
+  let [state,setState]=useState(0)
+  return(
+    <div>
 
-//       <h1>{state}</h1>
-//       <button onClick={
-//         function name(params) {
-//           setState(state+1)
-//         }
-//       }>increment</button>
-//       <button onClick={
-//         function name(params) {
-//           setState(state-1)
-//         }
-//       }>decrement</button>
-//     </div>
-//   )
-// }
+      <h1>{state}</h1>
+      <button onClick={
+        function name(params) {
+          setState(state+1)
+        }
+      }>increment</button>
+      <button onClick={
+        function name(params) {
+          setState(state-1)
+        }
+      }>decrement</button>
+    </div>
+  )
+}
 
 // function App() {
   // var status=false;
@@ -68,4 +68,4 @@
 //   );
 // }
 
-// export default App;
+export default App;
