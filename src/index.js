@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM  from 'react-dom/client';
-import App from './Appone.js';
+import App from './Apptwo.js';
 import "./app.css"
 
 
