@@ -11,7 +11,6 @@ function Appthree(){
     const getValue = (emailValue,passwordValue) =>{
         setemail(emailValue)
         setpassword(passwordValue)
-        console.log(` Email-ID : ${emailValue} \n\n Password : ${passwordValue} `);
     }
 
 

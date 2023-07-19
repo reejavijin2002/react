@@ -12,7 +12,7 @@ function Form(props) {
   const submit = (params) => {
     params.preventDefault();
 
-    // myfun(email, password);
+    myfun(email, password);
     
   };
 
