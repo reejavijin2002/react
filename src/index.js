@@ -1,5 +1,10 @@
 import React from 'react';
 import ReactDOM  from 'react-dom/client';
+// import Api from './Api';
+//  import App1 from './App1';
+import 'bootstrap/dist/css/bootstrap.min.css';
+// import Todo from './Todo';
+
 
 
 
@@ -17,10 +22,11 @@ import Notification from './Notification';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    {/* <Todo/> */}
      <BrowserRouter>
         <Routes>
           <Route path='/' element={<Layout/>}>
-            <Route path="Account" element={<Account/>}/>
+            <Route index path="" element={<Account/>}/>
             <Route path="Password" element={<Password/>}/>
             <Route path="Security" element={<Security/>}/>
             <Route path="Application" element={<Application/>}/>
@@ -29,7 +35,7 @@ root.render(
             </Route>
 
             
-
+        
 
 
 

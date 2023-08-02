@@ -1,0 +1,72 @@
+.header{
+    background-color:#f5144c ;
+    width: 70vh;
+    margin : 5em auto;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+}
+.NEXT{
+    text-align: center;
+    font-size: 2em;
+}
+.addtodo{
+    background-color: #f5144c;
+    padding: 0.5em;
+    border-radius: 2em;
+    border: 2px solid white;
+    
+}
+input{
+    font-size: 1em;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    border: 1px;
+    border-radius: 1em;
+    padding: .5em;
+    margin: 1em;
+    width: 90%;
+}
+.deletes{
+    border-radius: 5px;
+    margin-right: 0px;
+    padding: 3px 5px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    float: right;
+    background-color:#e862ae;
+    align-items: center;
+}
+button{
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 5px;
+    padding: 5px 8px;
+    border: none;
+    color: black;
+    border-radius: 5px;
+    background-color:#f75358;
+    cursor: pointer;
+    width: 70px;
+    box-shadow: 3px 3px;
+
+}
+.view{
+    background-color: #f5144c;
+    padding:7px;
+    border-radius: 1em;
+    border: 2px solid white;
+    margin-top: 5px;
+    font-weight: bolder;
+    text-align: center;
+    color: #000000;
+
+}
+button:hover{
+    background-color: aliceblue;
+}
+input:hover{
+    background-color:#f75358;
+}
