@@ -1,0 +1,130 @@
+.one{
+    display: flex;
+    
+    border-radius: 30px;
+    
+}
+
+.five{
+    padding: 30px;
+}
+.two{
+    height: 100vh;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+}
+.three{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+
+}
+a{
+    
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+
+}
+button:hover{
+    background-color: rgb(5, 103, 231);
+}
+h3{
+ color: black;
+ font-weight: bolder;
+ text-align: center;
+ 
+}
+button{
+    padding: 15px;
+    
+    width:250px ;
+    border: none;
+    margin-bottom: 8px;
+}
+body{
+    background-color: rgb(69, 69, 69);
+}
+img{
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 10px;
+     
+     border: 2px solid rgb(0, 0, 0);
+     border-radius:100px;
+}
+form{
+    display: flex;
+    padding: 20px;
+    
+}
+label{
+    font-weight: bold;
+    margin-left: 30px;
+    margin-bottom: 15px;
+
+}
+input{
+    padding: 10px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 3px 3px;
+    margin-top: 15px;
+    margin-top: 15px;
+
+}
+h2{
+    margin-left: 40px;
+}
+p{
+    margin-left: 40px;
+}
+.six{
+    width: 80px;
+    height: 40px;
+    font-weight: bolder;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 30px;
+    box-shadow: 3px 3px;
+
+}
+.seven{
+    padding: 50px 120px;
+    border: 2px solid black;
+    height: 60vh;
+    width: 100vh;
+    margin-left: 00px;
+    align-items: center;
+    background-color: rgb(236, 130, 130);
+    border: none;
+    border-radius: 50px;
+
+}
+.six:hover{
+    background-color:rgb(236, 130, 130) ;
+}
+.va{
+     margin: left 15px; ;
+     padding: 0px;
+     margin-right: 400px;
+     width: 50px;
+
+}
+.ten{
+    display: flex;
+    
+}
+.eleven{
+    margin-right: 15px;
+}
+#one:hover{
+    background-color: rgb(235, 38, 71);
+}
+.fifteen{
+    padding: 20px;
+    margin-left: 100px;
+}
